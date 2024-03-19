@@ -84,8 +84,8 @@ cv2.destroyAllWindows()
 ![download](https://github.com/srikarthickeyanganapathy/Histogram-of-an-images/assets/119393842/e3d32911-b2d1-4f25-b21b-3887916908ff)
 
 #### Color Image
-![download](https://github.com/srikarthickeyanganapathy/Histogram-of-an-images/assets/119393842/12b80e1a-779b-4f7f-8594-e4d46ed3e487)
 ![download](https://github.com/srikarthickeyanganapathy/Histogram-of-an-images/assets/119393842/384e5a5f-3353-4566-b6b6-f0332bcd361f)
+![download](https://github.com/srikarthickeyanganapathy/Histogram-of-an-images/assets/119393842/12b80e1a-779b-4f7f-8594-e4d46ed3e487)
 
 ### Histogram Equalization of Grayscale Image.
 ![Screenshot 2024-03-19 111422](https://github.com/srikarthickeyanganapathy/Histogram-of-an-images/assets/119393842/046333e4-9bb6-45cb-b961-6f970a97c11c)
